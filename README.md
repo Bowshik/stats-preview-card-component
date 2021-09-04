@@ -13,7 +13,7 @@
 ---
 ### Links
 - #### Solution URL [Code on Github](https://github.com/Bowshik/stats-preview-card-component)
-- #### Live URL [Live website](https://github.com)
+- #### Live URL [Live website](https://bowshik.github.io/stats-preview-card-component/)
 
 ### Author
 - #### Medium [Bowshik sri ram](https://medium.com/@bowshiksriram)
