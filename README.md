@@ -12,8 +12,8 @@
 ![Mobile](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/zndkz1bimmoqwh7mzcmm.jpg)
 ---
 ### links
--Solution URL [Code on Github](https://github.com/)
--Live URL [Live website](https://github.com)
+- #### Solution URL [Code on Github](https://github.com/Bowshik/stats-preview-card-component)
+- #### Live URL [Live website](https://github.com)
 
 ### Author
 - Medium [Bowshik sri ram](https://medium.com/@bowshiksriram)
