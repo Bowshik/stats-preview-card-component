@@ -7,7 +7,7 @@
 - ###### View the optimal layout depending on their device's screen size
 ## Screenshot
 ### Desktop version
-![Desktop](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/mobile-version.png)
+![Desktop](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/desktop-version.png)
 ### Mobile version
 ![Mobile](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/desktop-version.png)
 ---
