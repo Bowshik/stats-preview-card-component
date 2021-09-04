@@ -1,9 +1,9 @@
 # Frontend Mentor - Stats preview card component solution
-***
+
 ##### This is a [solution to the Stats preview card component challenge]() on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 # Overview
----
+
 - ###### View the optimal layout depending on their device's screen size
 ## Screenshot
 ### Desktop version
