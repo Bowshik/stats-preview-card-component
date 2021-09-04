@@ -7,9 +7,9 @@
 - ###### View the optimal layout depending on their device's screen size
 ## Screenshot
 ### Desktop version
-![Desktop](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/desktop-version.png)
+![Desktop](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/t26y9p3veejvbc9biv3f.jpg)
 ### Mobile version
-![Mobile](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/mobile-version.png)
+![Mobile](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/zndkz1bimmoqwh7mzcmm.jpg)
 ---
 ### links
 -Solution URL [Code on Github](https://github.com/)
