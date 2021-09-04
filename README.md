@@ -11,7 +11,7 @@
 ### Mobile version
 ![Mobile](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/zndkz1bimmoqwh7mzcmm.jpg)
 ---
-### links
+### Links
 - #### Solution URL [Code on Github](https://github.com/Bowshik/stats-preview-card-component)
 - #### Live URL [Live website](https://github.com)
 
