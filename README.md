@@ -9,7 +9,7 @@
 ### Desktop version
 ![Desktop](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/desktop-version.png)
 ### Mobile version
-![Mobile](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/desktop-version.png)
+![Mobile](https://github.com/santu369/frontendmentor-stats-preview-card-component/blob/main/screenshots/mobile-version.png)
 ---
 ### links
 -Solution URL [Code on Github](https://github.com/)
