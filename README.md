@@ -16,4 +16,4 @@
 - #### Live URL [Live website](https://bowshik.github.io/stats-preview-card-component/)
 
 ### Author
-- #### Medium [Bowshik sri ram](https://medium.com/@bowshiksriram)
+- #### Medium [Bowshik Sri Ram](https://medium.com/@bowshiksriram)
